@@ -84,7 +84,7 @@ Through this project, I learned:
 ---
 
 ## ✅ Submission
-GitHub Repository Link:
+GitHub Repository Link: https://github.com/ishika25mim10012-stack/Digital-literacy-project.git
 
 ---
 
