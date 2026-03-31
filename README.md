@@ -57,6 +57,29 @@ I studied a cybercrime case to understand how online frauds like phishing or UPI
 🌐 Portal: https://cybercrime.gov.in  
 
 ---
+## 📂 Repository Structure
+digital-literacy-project/
+│
+├── README.md
+├── report/
+│ └── Project_Report.pdf
+│
+├── task-1-presentation/
+│ └── infographic.png / Canva link
+│
+├── task-2-portfolio/
+│ └── profile screenshots
+│
+├── task-3-platforms/
+│ └── coding + Google Form screenshots
+│
+├── task-4-email-etiquette/
+│ ├── email drafts
+│ └── social-media-checklist.md
+│
+└── task-5-cybercrime/
+├── casestudy.md
+└── prevention-checklist.md
 
 ## 📊 Tools Used
 - Canva / Prezi  
@@ -94,7 +117,7 @@ GitHub Repository Link: https://github.com/ishika25mim10012-stack/Digital-litera
 This project is created as part of the Digital Literacy course. As a **Student Digital Ambassador**, the goal of this project is to help students understand and effectively use digital tools, maintain a professional online presence, and stay safe in the digital world.
 
 The project consists of **5 tasks**, each based on different modules of the course. All tasks are organized in this repository along with supporting files and a detailed report.
-
 ---
+Conclusion
 
-## 📂 Repository Structure
+This project provided me with a comprehensive understanding of digital literacy and its importance in today’s digital world. It helped me develop essential skills such as creating a professional online presence, effective communication, and safe internet practices. I also gained hands-on experience with useful digital tools and platforms. Overall, this project has contributed positively to both my academic learning and future career readiness.
